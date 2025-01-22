@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Büşra
- I'm a Computer Engineering student at the Ondokuz Mayıs University.
+ I'm a Computer Engineering.
 
- I believe that everyone has a peak. I aim to do my best in everything I do and reach the top of my own peak.
+As an engineer candidate who is open to development and learning, I aim to add value to my organization and build a successful career by producing innovative solutions by carrying my teamwork and problem solving skills I gained in the projects I participated in my university life to professional working life.
 
 - 🌱 I’m currently learning OOP with java.
 
