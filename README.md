@@ -1,10 +1,6 @@
 ### Hi there 👋 I'm Büşra
- I'm a Computer Engineering.
 
-As an engineer candidate who is open to development and learning, I aim to add value to my organization and build a successful career by producing innovative solutions by carrying my teamwork and problem solving skills I gained in the projects I participated in my university life to professional working life.
-
-- 🌱 I’m currently learning OOP with java.
-
+I am a graduate of Ondokuz Mayıs University, Department of Computer Engineering. As a computer engineer who is open to development and learning, my greatest motivation is to bring the teamwork and problem-solving skills I have gained through the projects I participated in during my university years into my professional career, contribute value to the organization I work for, develop innovative solutions, and build a successful career.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busrabll)](https://github.com/anuraghazra/github-readme-stats)
 
