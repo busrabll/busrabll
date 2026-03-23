@@ -9,5 +9,3 @@ I am a Computer Engineer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busrabll)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=busrabll&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/busrabll)  
